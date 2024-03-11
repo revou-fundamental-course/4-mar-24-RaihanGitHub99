@@ -1,1 +1,1 @@
-# BMI-Calculator With ReactJs - RaihanMuhammad99
+## BMI-Calculator - RaihanMuhammad99
